@@ -1,0 +1,106 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Household final consumption expenditure, quarterly, Canada","36100107","380-0067","https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610010701",1,"CURRENT - a cube available to the public and that is current","Quarterly","1961-01-01","2023-01-01","4",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Prices",,""
+"3","Seasonal adjustment",,""
+"4","Estimates",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Canada","[11124]","1","","",,
+"2","Contributions to percent change","","3","","",,
+"2","Chained (2007) dollars","","4","","t",,
+"2","Chained (2012) dollars","","1","","",,
+"2","Current prices","","2","","",,
+"3","Seasonally adjusted at annual rates","","1","","",,
+"3","Unadjusted","","2","","",,
+"4","Food","[C111]","2","1","",,
+"4","Non-alcoholic beverages","[C112]","3","1","",,
+"4","Cannabis","[C123]","61","4","",,
+"4","Alcoholic beverages","[C121]","5","4","",,
+"4","Tobacco","[C122]","6","4","",,
+"4","Clothing","[C131]","8","7","",,
+"4","Footwear","[C132]","9","7","",,
+"4","Paid rental fees for housing","[C141]","11","10","",,
+"4","Imputed rental fees for housing","[C142]","12","10","",,
+"4","Maintenance and repair of the dwelling","[C143]","13","10","",,
+"4","Water supply and sanitation services","[C144]","14","10","",,
+"4","Electricity, gas and other fuels","[C145]","15","10","",,
+"4","Furniture, furnishings, carpets and other floor coverings","[C151]","17","16","",,
+"4","Household textiles","[C152]","18","16","",,
+"4","Household appliances","[C153]","19","16","",,
+"4","Tools and equipment for house and garden","[C154]","20","16","",,
+"4","Other goods and services related to the dwelling and property","[C155]","21","16","",,
+"4","Medical products, appliances and equipment","[C161]","23","22","",,
+"4","Out-patient services","[C162]","24","22","",,
+"4","Hospital services","[C163]","25","22","",,
+"4","Purchase of vehicles","[C171]","27","26","",,
+"4","Operation of transport equipment","[C172]","28","26","",,
+"4","Transport services","[C173]","29","26","",,
+"4","Communications","[C181]","31","30","",,
+"4","Audio-visual, photographic and information processing equipment","[C191]","33","32","",,
+"4","Other major durables for recreation and culture","[C192]","34","32","",,
+"4","Other recreational items and equipment, garden products and pets","[C193]","35","32","",,
+"4","Recreational and cultural services","[C194]","36","32","",,
+"4","Newspapers, books and stationery","[C195]","37","32","",,
+"4","Education","[C211]","39","38","",,
+"4","Food and beverage services","[C221]","41","40","",,
+"4","Accommodation services","[C222]","42","40","",,
+"4","Insurance","[C231]","44","43","",,
+"4","Financial services indirectly measured","[C232]","45","43","",,
+"4","Other financial services","[C233]","46","43","",,
+"4","Personal care","[C241]","48","47","",,
+"4","Personal effects","[C242]","49","47","",,
+"4","Social services","[C243]","50","47","",,
+"4","Other services","[C244]","51","47","",,
+"4","Expenditure by Canadians abroad","[C251]","53","52","",,
+"4","Expenditure by non-residents in Canada","[C252]","54","52","",,
+"4","Services","[CS]","60","55","",,
+"4","Goods","[CG]","56","55","",,
+"4","Semi-durable goods","[CSD]","58","56","",,
+"4","Non-durable goods","[CND]","59","56","",,
+"4","Durable goods","[CD]","57","56","",,
+"4","Food and non-alcoholic beverages","[C11]","1","","",,
+"4","Alcoholic beverages,  tobacco and cannabis","[C12]","4","","",,
+"4","Clothing and footwear","[C13]","7","","",,
+"4","Housing, water, electricity, gas and other fuels","[C14]","10","","",,
+"4","Furnishings, household equipment and other goods and services related to the dwelling and property","[C15]","16","","",,
+"4","Health","[C16]","22","","",,
+"4","Transport","[C17]","26","","",,
+"4","Communications","[C18]","30","","",,
+"4","Recreation and culture","[C19]","32","","",,
+"4","Education","[C21]","38","","",,
+"4","Food, beverage and accommodation services","[C22]","40","","",,
+"4","Insurance and financial services","[C23]","43","","",,
+"4","Miscellaneous goods and services","[C24]","47","","",,
+"4","Net expenditure abroad","[C25]","52","","",,
+"4","Household final consumption expenditure","[C]","55","","",,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"1901","National Gross Domestic Product by Income and by Expenditure Accounts"
+
+"Subject Code","Subject Name"
+"36","Economic accounts"
+
+"Note ID",Note
+1,"The categories of household final consumption expenditure are based largely on the Classification of Individual Consumption According to Purpose (COICOP)."
+
+"Correction ID","Correction Date","Correction Note"
