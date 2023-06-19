@@ -1,6 +1,16 @@
 # project1
 
+# Title : Consumer Spending Habits/Trend
 
+Note: This data set uses chain-weighted CPI
+-   Chain-weighted CPI takes real-word purchasing decisions into account to provide a more accurate picture of the cost of living.
+-   Chain-weighted CPI can capture both general changes in spending, as consumer preferences change, and substitution effects, when relative prices change.
+-   The adjustments in chain-weighted CPI make it a better measure of the cost of living, but a less accurate measure of inflation.
+
+
+
+
+# Things to take note of
 
 Transport: During covid, we can see a significant drop in expenses.
 People were staying home isolating, and working from home. Even after 
