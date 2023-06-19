@@ -24,3 +24,12 @@ Clothings people do not go shopping, or no much need buying new cloth when stayi
 Alcoholic beverages: did not go down during covid, it even went up! People rely on substances during hard times.
 
 
+Hypothesis
+-   Null Hypothesis— Consumer spending habit stayed the same.
+-   Alternative Hypothesis-- Consumer spending habit changed after covid.
+
+P-Value = 0.147688
+P-Value > 0.05
+We have failed to reject the Null Hypothesis.
+
+Limitation: Covid happened too recent, hard to have large data set.
